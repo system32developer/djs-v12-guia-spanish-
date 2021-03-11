@@ -32,4 +32,4 @@ client.on('message', message => {
 	}
 });
 
-client.login('aqui-va-tu-token'); //Aqui va tu token, necesario para que el bot se inicie
+client.login('aqui-va-tu-token'); //Aqui va tu token, necesario para que el bot se inicie.
