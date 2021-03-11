@@ -17,4 +17,3 @@ message.channel.send("Hello World!") //Hacemos que envie "Hello world!" al canal
 }
 });//Cerramos el evento
 client.login('aqui-va-tu-token'); //Aqui va tu token, necesario para que el bot se inicie
-© 2021 GitHub, Inc.
