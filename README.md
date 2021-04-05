@@ -1,4 +1,4 @@
-# djs-v12-guia-spanish-
+# djs-v12-guia-español-
 Una guía para aprender un poco de **Javascript** y **Discord.js** básico 
 
 
