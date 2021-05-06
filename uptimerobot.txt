@@ -1,0 +1,4 @@
+1- Cuando tengan el codigo del index.js y el server.js le dan a iniciar a su bot, esto es muy importante, cuando lo inicien en replit a la derecha saldrá un cuadro blanco diciendo Bot online y ahi debe tener una direccion url, como por ejemplo:
+https://poto.xd.repl.co, la copian
+
+2- Van a https://uptimerobot.com/ y se crean una cuenta, inician y cuando esten en el dashboard arriba a la izquierda dirá add new monitor en un boton verde le dan ahi y en Monitor type ponen https, en friendly name el nombre que gusten en la url o ip copian la ip de su replit copiado anteriormente y el monitoreo de interval lo dejan así, despues le dan a create monitor y se estará iniciando, listo :D
