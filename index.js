@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Discord = require('discord.js'); 
 const client = new Discord.Client(); 
-const { prefix } = require('./config.json');
+
 const alive = require('./server.js')
 
 client.commands = new Discord.Collection();

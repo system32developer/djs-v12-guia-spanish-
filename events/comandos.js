@@ -1,4 +1,5 @@
 const Discord = require("discord.js"); //IMPORTAMOS DISCORD, TAMBIEN PUEDEN USARLO DESDE EL HANDLER
+const { prefix } = require('./config.json'); //IMPORTAMOS EL PREFIX
 module.exports = {
 	name: 'message', //EL EVENTO MESSAGE
 	async execute(message, client) { // AQUI IMPORTAMOS CLIENT Y MESSAGE QUE ES DEL EVENTO
