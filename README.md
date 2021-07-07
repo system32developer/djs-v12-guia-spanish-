@@ -2,6 +2,7 @@
 
 > Una guía para aprender un poco de **Javascript** y **Discord.js** básico 
 
+---
 
 > Click Aquí para unirte al Servidor de Ayuda
 
